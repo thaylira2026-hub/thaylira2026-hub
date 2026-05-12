@@ -30,3 +30,15 @@
 </td>
   </tr>
 </table>
+<br />
+<div align="center">
+  <h2>📜 Certificações & Conquistas</h2>
+  
+  <img src="https://img.shields.io/badge/Chatbot-Alura-161616?style=for-the-badge&logo=aluna&logoColor=167dff" />
+  
+  <img src="https://img.shields.io/badge/Front--End-Alura-161616?style=for-the-badge&logo=aluna&logoColor=167dff" />
+  
+  <br> <img src="https://img.shields.io/badge/Python_Fundamentos-Alura-161616?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Java_Fundamentos-Alura-161616?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
