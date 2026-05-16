@@ -8,6 +8,7 @@
       <ul>
         <li>🎓 Graduanda em ADS (FIAP)</li>
         <li>💻 Projetos acadêmicos práticos</li>
+        <li> Meu site https://thaylira2026-hub.github.io/pagina-pessoal-fiap/</li>
       </ul>
     </td>
 
