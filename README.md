@@ -1,45 +1,109 @@
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h1>Olá! Eu sou a Thays 🚀</h1>
-      <p>Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS) na FIAP</b>. Construindo projetos, explorando conceitos e colocando ideias em prática através do código. </p>
-      
-  <h3>Sobre mim:</h3>
-      <ul>
-        <li>🎓 Graduanda em ADS (FIAP)</li>
-        <li>💻 Projetos acadêmicos práticos</li>
-        <li> Meu projeto em andamento - web site https://thaylira2026-hub.github.io/pagina-pessoal-fiap/</li>
-      </ul>
-    </td>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Ol%C3%A1!%20Eu%20sou%20a%20Thays%20%F0%9F%9A%80&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<td width="50%" valign="top">
-      <div align="center">
-        <h3>Linguagens</h3>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Estudante+de+ADS+na+FIAP+%F0%9F%8E%93;Aprendendo+Java%2C+Python+%26+Front-end;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thays-lira-538619186" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:thay.lira2026@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://thaylira2026-hub.github.io/pagina-pessoal-fiap/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thaylira2026-hub&label=Profile+views&color=8A2BE2&style=for-the-badge" alt="views" />
+</p>
+
+<br/>
+
+## 👩‍💻 Sobre mim
+
+```python
+class Thays:
+    def __init__(self):
+        self.nome = "Thays Lira"
+        self.curso = "Análise e Desenvolvimento de Sistemas (ADS)"
+        self.faculdade = "FIAP"
+        self.local = "São Paulo, Brasil 🇧🇷"
+        self.aprendendo = ["Java", "Python", "Front-end Design"]
+        self.foco = "Construir projetos e colocar ideias em prática 💜"
+
+    def diga_oi(self):
+        print("Obrigada por visitar meu perfil! 🚀")
+```
+
+- 🎓 Graduanda em **ADS** pela **FIAP**
+- 💻 Apaixonada por **projetos acadêmicos práticos**
+- 🌐 Projeto em andamento — [**Página Pessoal FIAP**](https://thaylira2026-hub.github.io/pagina-pessoal-fiap/)
+- 📚 Sempre estudando algo novo na **FIAP & Alura**
+- 📫 Fale comigo: **thay.lira2026@gmail.com**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center"><strong>💻 Linguagens</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,js,java,python&theme=dark" alt="Linguagens" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-  <br><br>
+<p align="center"><strong>⚙️ Ferramentas</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,nodejs&theme=dark" alt="Ferramentas" />
+</p>
 
-  <h3>Ferramentas</h3>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-</td>
-  </tr>
-</table>
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylira2026-hub&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylira2026-hub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thaylira2026-hub&theme=react&hide_border=true&background=0D1117&ring=8A2BE2&fire=58A6FF&currStreakLabel=8A2BE2" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thaylira2026-hub&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thaylira2026-hub&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=58A6FF&point=ffffff" alt="Activity Graph" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
+
+## 📜 Certificações & Conquistas
+
 <div align="center">
-  <h2>📜 Certificações & Conquistas</h2>
-  
-  <img src="https://img.shields.io/badge/Chatbot-Alura-161616?style=for-the-badge&logo=aluna&logoColor=167dff" />
-  
-  <img src="https://img.shields.io/badge/Front--End-Alura-161616?style=for-the-badge&logo=aluna&logoColor=167dff" />
-  
-  <br> <img src="https://img.shields.io/badge/Python_Fundamentos-Alura-161616?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Java_Fundamentos-Alura-161616?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+| 🏆 Certificação | 🏫 Instituição |
+|:---:|:---:|
+| 🤖 **Chatbot** | Alura |
+| 🎨 **Front-end** | Alura |
+| 🐍 **Python Fundamentos** | Alura |
+| ☕ **Java Fundamentos** | Alura |
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
+
+## 🌱 Projetos em destaque
+
+<div align="center">
+
+[![Página Pessoal FIAP](https://github-readme-stats.vercel.app/api/pin/?username=thaylira2026-hub&repo=pagina-pessoal-fiap&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=58A6FF)](https://thaylira2026-hub.github.io/pagina-pessoal-fiap/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
+
+## 💬 Frase que me inspira
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=120&section=footer&text=Aprendendo%20um%20pouco%20a%20cada%20dia%20%F0%9F%92%9C&fontSize=20&fontColor=ffffff" />
