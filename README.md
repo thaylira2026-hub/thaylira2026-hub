@@ -55,8 +55,8 @@ class Thays:
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylira2026-hub&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylira2026-hub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylira2026 hub&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylira2026-hub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
 </p>
 
 <p align="center">
