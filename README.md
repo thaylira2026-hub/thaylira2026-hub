@@ -52,27 +52,6 @@ class Thays:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylira2026 hub&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylira2026-hub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thaylira2026-hub&theme=react&hide_border=true&background=0D1117&ring=8A2BE2&fire=58A6FF&currStreakLabel=8A2BE2" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thaylira2026-hub&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thaylira2026-hub&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=58A6FF&point=ffffff" alt="Activity Graph" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
-
 ## 📜 Certificações & Conquistas
 
 <div align="center">
@@ -106,4 +85,4 @@ class Thays:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=120&section=footer&text=Aprendendo%20um%20pouco%20a%20cada%20dia%20%F0%9F%92%9C&fontSize=20&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=120&section=footer&text=Aprendendo%20sempre%20%F0%9F%92%9C&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
