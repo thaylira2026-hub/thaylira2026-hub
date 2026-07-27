@@ -76,12 +76,3 @@ class Thays:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:58A6FF&height=2" />
 
-## 💬 Frase que me inspira
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=120&section=footer&text=Aprendendo%20sempre%20%F0%9F%92%9C&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
