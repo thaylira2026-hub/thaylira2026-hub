@@ -31,7 +31,6 @@ class Thays:
 
 - 🎓 Graduanda em **ADS** pela **FIAP**
 - 💻 Apaixonada por **projetos acadêmicos práticos**
-- 🌐 Projeto em andamento — **Página Pessoal FIAP** (https://thaylira2026-hub.github.io/pagina-pessoal-fiap/)
 - 📚 Sempre estudando algo novo na **FIAP & Alura**
 - 📫 Fale comigo: **thay.lira2026@gmail.com**
 
